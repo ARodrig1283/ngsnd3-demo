@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="content_css">
+    <content_css action="INSERT_OR_UPDATE">
+        <name>styles</name>
+        <style/>
+        <sys_class_name>content_css</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-07 08:53:32</sys_created_on>
+        <sys_id>f8f4eee137e21300095aae7873990ed4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>styles</sys_name>
+        <sys_package display_value="ngsnd3-demo" source="x_202883_n">d4f4eea137e21300095aae7873990e45</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ngsnd3-demo">d4f4eea137e21300095aae7873990e45</sys_scope>
+        <sys_update_name>content_css_f8f4eee137e21300095aae7873990ed4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-07 08:53:32</sys_updated_on>
+        <type>local</type>
+        <url/>
+    </content_css>
+</record_update>
